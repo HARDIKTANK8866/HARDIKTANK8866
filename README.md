@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/htank8866" target="blank"><img src="https://img.shields.io/twitter/follow/htank8866?logo=twitter&style=for-the-badge" alt="htank8866" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HARDIKTANK8866?tab=repositories](https://github.com/HARDIKTANK8866?tab=repositories)
 
