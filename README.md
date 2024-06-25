@@ -20,7 +20,7 @@
 <a href="https://twitter.com/htank8866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="htank8866" height="30" width="40" /></a>
 <a href="https://fb.com/prince tank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prince tank" height="30" width="40" /></a>
 <a href="https://instagram.com/hardik_tank8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hardik_tank8" height="30" width="40" /></a>
-<a href="https://discord.gg/htank8866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="htank8866" height="30" width="40" /></a>
+<a href="https://discord.gg/htank88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="htank88" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
